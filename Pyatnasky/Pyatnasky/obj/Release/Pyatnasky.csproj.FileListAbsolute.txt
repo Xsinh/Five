@@ -1,0 +1,14 @@
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\bin\Release\Pyatnasky.exe.config
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\bin\Release\Pyatnasky.exe
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\bin\Release\Pyatnasky.pdb
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\MainWindow.g.cs
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\App.g.cs
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\Pyatnasky_MarkupCompile.cache
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\Pyatnasky_MarkupCompile.lref
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\MainWindow.baml
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\Pyatnasky.g.resources
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\Pyatnasky.Properties.Resources.resources
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\Pyatnasky.csproj.GenerateResource.Cache
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\Pyatnasky.exe
+C:\Users\Viper\Desktop\Five\Pyatnasky\Pyatnasky\obj\Release\Pyatnasky.pdb

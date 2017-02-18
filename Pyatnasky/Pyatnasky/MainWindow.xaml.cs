@@ -51,8 +51,7 @@ namespace Fifteens
             var button = (FButton)sender;
             int x = Grid.GetRow(button);
             int y = Grid.GetColumn(button);
-            
-            // button.BeginAnimation();
+
             // При нажатии на левый Ctrl можно играть по диагонали
             var down = Keyboard.IsKeyDown(Key.LeftCtrl);
 
@@ -77,9 +76,7 @@ namespace Fifteens
             && b.Y == Grid.GetColumn(b));
 
             if (!ok) return;
-           
-            //MessageBox.Show("You win");
-            //grid.Children.Clear();
+
             label.Visibility = Visibility.Visible;
             restart.Visibility = Visibility.Visible;
             circle_load.Visibility = Visibility.Visible;
